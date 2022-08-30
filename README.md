@@ -187,7 +187,7 @@ this.$tv.readXPath(this.$tv.getElementByPath('//div[@class="content"]/span[2]');
 
 你还在看？？？
 好吧，我猜你可能还有一些别的需求~
-### 其它
+# 其它
 ## 1.提一下初始化
 您可以设置全局设置或单页设置
 ```js
